@@ -9,4 +9,8 @@ public class DefaultDemo {
 	void dummy() {
 		System.out.println("This is from dummy method.");
 	}
+	
+	void dummy2() {
+	      System.out.println("This is from dummy2 method.");
+	}
 }

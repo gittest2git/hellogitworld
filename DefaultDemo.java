@@ -5,4 +5,8 @@ public class DefaultDemo {
 	void sayHello(String name) {
 		System.out.println("Hello! "+name);
 	}
+	
+	void dummy() {
+		System.out.println("This is from dummy method.");
+	}
 }
